@@ -9,6 +9,10 @@ import tk.mybatis.spring.annotation.MapperScan;
 public class SpringbootMapperApplication {
 
     public static void main(String[] args) {
+        
+        
+        
+        
         SpringApplication.run(SpringbootMapperApplication.class, args);
     }
 
